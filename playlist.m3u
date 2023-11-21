@@ -73,3 +73,87 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="Starnet.in" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="General",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="1YesNews.in" tvg-logo="https://i.imgur.com/4HeuLuA.png" group-title="News",1 Yes News
+https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
+#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+#EXTINF:-1 tvg-id="99TV.in" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="",99TV
+https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="News",ABP Ganga
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-logo="https://example.com/starplushd.png" group-title="Entertainment",Star Plus HD
+http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://example.com/zeetv.png" group-title="Entertainment",Zee TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="StarBharatHD.in" tvg-logo="https://example.com/starbharathd.png" group-title="Entertainment",Star Bharat HD
+http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
+#EXTINF:-1 tvg-id="StarWorldHD.in" tvg-logo="https://example.com/starworldhd.png" group-title="Entertainment",Star World HD
+http://51.15.8.16:8081/ind1live/starworld/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyTV.in" tvg-logo="https://example.com/sonytv.png" group-title="Entertainment",Sony TV
+http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.in" tvg-logo="https://example.com/axn.png" group-title="Entertainment",AXN
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+#EXTINF:-1 tvg-id="ID.in" tvg-logo="https://example.com/id.png" group-title="Entertainment",ID
+http://84.22.33.254/unicast.id/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTV.in" tvg-logo="https://example.com/colorstv.png" group-title="Entertainment",Colors TV
+http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyTVUK.in" tvg-logo="https://example.com/sonytvuk.png" group-title="Entertainment",Sony TV UK
+http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNHD.in" tvg-logo="https://example.com/axnhd.png" group-title="Entertainment",AXN HD
+http://51.15.8.16:8081/lolind2/sonytvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySABHD.in" tvg-logo="https://example.com/sonysabhd.png" group-title="Entertainment",Sony SAB HD
+http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://example.com/sonypal.png" group-title="Entertainment",Sony PAL
+http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-logo="https://example.com/colorshd.png" group-title="Entertainment",Colors HD
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="AndTVHD.in" tvg-logo="https://example.com/andtvhd.png" group-title="Entertainment",&TV HD
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1 tvg-id="AndTVHDUSA.in" tvg-logo="https://example.com/andtvhdusa.png" group-title="Entertainment",&TV HD USA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
+#EXTINF:-1 tvg-id="ColorsAPAC.in" tvg-logo="https://example.com/colorsapac.png" group-title="Entertainment",Colors TV APAC
+http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 tvg-id="ZeeTVIN.in" tvg-logo="https://example.com/zeetvin.png" group-title="Entertainment",Zee TV IN
+http://51.15.8.16:8081/ind1live/zeetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVUK.in" tvg-logo="https://example.com/zeetvuk.png" group-title="Entertainment",Zee TV UK
+http://51.15.8.16:8081/ind1live/zeetvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://example.com/starbharat.png" group-title="Entertainment",Star Bharat
+http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://example.com/starplus.png" group-title="Entertainment",Star Plus
+http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
+#EXTINF:-1 tvg-id="KaptialTV.in" tvg-logo="https://example.com/kaptialtv.png" group-title="Entertainment",Kaptial TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="AXN.MY.in" tvg-logo="https://example.com/axnmy.png" group-title="Entertainment",AXN (Malaysia)
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+#EXTINF:-1 tvg-id="ID.RS.in" tvg-logo="https://example.com/idrs.png" group-title="Entertainment",ID (Serbia)
+http://84.22.33.254/unicast.id/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTVUK.in" tvg-logo="https://example.com/colorstvuk.png" group-title="Entertainment",Colors TV UK
+http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyTVUK.in" tvg-logo="https://example.com/sonytvuk.png" group-title="Entertainment",Sony TV UK
+http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNHD.IN.in" tvg-logo="https://example.com/axnhdin.png" group-title="Entertainment",AXN HD (India)
+http://51.15.8.16:8081/lolind2/sonytvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySABHD.IN.in" tvg-logo="https://example.com/sonysabhdin.png" group-title="Entertainment",Sony SAB HD (India)
+http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPAL.in" tvg-logo="https://example.com/sonypalin.png" group-title="Entertainment",Sony PAL (India)
+http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-logo="https://example.com/colorshdin.png" group-title="Entertainment",Colors HD (India)
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="AndTVHD.in" tvg-logo="https://example.com/andtvhdin.png" group-title="Entertainment",&TV HD (India)
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1 tvg-id="AndTVHDUSA.in" tvg-logo="https://example.com/andtvhdusa.png" group-title="Entertainment",&TV HD USA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
+#EXTINF:-1 tvg-id="ColorsAPAC.in" tvg-logo="https://example.com/colorsapac.png" group-title="Entertainment",Colors TV APAC
+http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 tvg-id="ZeeTVIN.in" tvg-logo="https://example.com/zeetvin.png" group-title="Entertainment",Zee TV IN
+http://51.15.8.16:8081/ind1live/zeetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVUK.in" tvg-logo="https://example.com/zeetvuk.png" group-title="Entertainment",Zee TV UK
+http://51.15.8.16:8081/ind1live/zeetvuk/playlist.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://example.com/starbharat.png" group-title="Entertainment",Star Bharat
+http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://example.com/starplus.png" group-title="Entertainment",Star Plus
+http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
